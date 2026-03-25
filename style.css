@@ -17,5 +17,10 @@ body {
 }
 
 .box {
-    
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
 }
