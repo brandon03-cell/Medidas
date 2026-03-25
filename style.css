@@ -31,3 +31,17 @@ body {
     background-color: brown;
     font-size: 1.5rem;
 }
+
+.em {
+    font-size: 20px;
+    width: 10em; /* 10 * 20px = 200px depende del tamaño de la fuente del elemento padre */
+    height: 5em;
+    background-color: green;
+}
+
+.percenrt {
+    width: 50%;
+    height: 50%;
+    background-color: orange;
+    font-size: 1rem;
+}
