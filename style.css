@@ -45,3 +45,9 @@ body {
     background-color: orange;
     font-size: 1rem;
 }
+
+.vh {
+    width: 50vh;
+    height: 10vh;
+    background-color: pink;
+}
