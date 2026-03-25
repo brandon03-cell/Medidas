@@ -24,3 +24,10 @@ body {
     border-radius: 8px;
     font-weight: bold;
 }
+
+.rem {
+    width: 10rem; /* 10 * 16px = 160px depende del tamaño de la fuente raíz (html o body = 16px) */
+    height: 5rem;
+    background-color: brown;
+    font-size: 1.5rem;
+}
