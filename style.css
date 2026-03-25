@@ -51,3 +51,9 @@ body {
     height: 10vh;
     background-color: pink;
 }
+
+.vw {
+    width: 50vw;
+    height: 10vw;
+    background-color: rgb(209, 11, 40);
+}
